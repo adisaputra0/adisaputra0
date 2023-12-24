@@ -1,7 +1,7 @@
 # Hi there, I'm I Putu Adi Saputra - [adisaputra5944](https://www.instagram.com/adisaputra5944/) 👋
 ## About me:
 - 🔭 I’m currently vocational school student
-- 🌱 I’m currently learning Laravel and Vue
+- 🌱 I’m currently learning Tailwind and React
 - 👯 I’m looking to collaborate as Web Developer
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
@@ -31,7 +31,6 @@
 [<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Vue" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Tailwind" width="30px" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Wordpress" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" style="padding-right:10px;" />][webdev]
