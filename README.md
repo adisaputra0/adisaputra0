@@ -1,4 +1,4 @@
-# Hi there, I'm I Putu Adi Saputra - [adisaputra5944](https://www.instagram.com/adisaputra5944/) 👋
+# Hi there, I'm I Putu Adi Saputra - [AS](https://adisaputra.vercel.app/) 👋
 ## About me:
 - 🔭 I’m currently vocational school student
 - 🌱 I’m currently learning Tailwind and React
@@ -9,8 +9,10 @@
 
 ## Education:
 
-#### 1. [SMKN 1 DENPASAR](https://www.smkn1denpasar.sch.id/) | Student | Denpasar `2021-now`
+#### 1. [SMKN 1 DENPASAR](https://www.smkn1denpasar.sch.id/) | Student | Denpasar `2021-2024`
    - Software Engineering Student.
+#### 1. [PRIMAKARA UNIVERSITY](https://primakara.ac.id/) | Student | Denpasar `2024-now`
+   - Informatics.
 
 ## Internship Experience:
 #### 1. [PT. Guna Teknologi Nusantara](https://redsystem.id/) | Frontend Developer | Denpasar `Dec'2022 - Feb'2023`
