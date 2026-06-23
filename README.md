@@ -1,87 +1,151 @@
 <div align="center">
-
-<sub>EST. 2003 &nbsp;·&nbsp; DENPASAR, BALI &nbsp;·&nbsp; INDONESIA</sub>
-
-# I Putu Adi Saputra
-
-*Software Engineer & Student of the Digital Craft*
-
-<sub>⸻ ✦ ⸻</sub>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adisaputra.vercel.app-2c2c2a?style=flat-square&labelColor=f1efe8)](https://adisaputra.vercel.app/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-@adisaputra0-2c2c2a?style=flat-square&labelColor=f1efe8)](https://github.com/adisaputra0/)&nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@adisaputra5944-2c2c2a?style=flat-square&labelColor=f1efe8)](https://www.instagram.com/adisaputra5944/)&nbsp;
-[![Email](https://img.shields.io/badge/CORRESPONDENCE-putuadi208@gmail.com-2c2c2a?style=flat-square&labelColor=f1efe8)](mailto:putuadi208@gmail.com)
-
+  <img src="img/hero_classical_brutalist.png" width="100%" alt="Classical Brutalist Banner">
 </div>
 
----
+# 🏛️ I PUTU ADI SAPUTRA — THE DIGITAL CRAFTSMAN
 
-<div align="center"><sub>— ON THE AUTHOR —</sub></div>
-
-&nbsp;
-
-**A** student of Informatics at Primakara University, Bali, whose attention is presently occupied by the study of *Blockchain*, *Web3*, and the deepening of full-stack web development. He is open to collaboration on matters of Frontend, Backend, and the integration of artificial intelligence into living systems.
-
-His curiosity extends into the territories of *Rust* and game development — disciplines not yet mastered, but earnestly pursued. Those who wish to converse on the subjects of Laravel, React, Next.js, or Tailwind CSS are warmly invited to correspond.
-
----
-
-<div align="center"><sub>— HONOURS & DISTINCTIONS —</sub></div>
-
-&nbsp;
-
-| &nbsp;&nbsp;&nbsp; | Competition | Result |
-|:---:|:---|:---|
-| 🥈 | **Information Technology Creative Competition** | *Second Place &nbsp;·&nbsp; ITCC* |
-| 🥉 | **Informatics Vocational Festival — Web Design** | *Third Place &nbsp;·&nbsp; Invofest 2025* |
-| 🥉 | **Hackathon Progress** | *Third Place* |
-| 🏅 | **Lomba Kompetensi Siswa Nasional — Web Technologies** | *Medallion for Excellence &nbsp;·&nbsp; LKSN 2023 &nbsp;·&nbsp; Score above 700* |
+> ### 🎫 EXHIBIT ENTRY PASS
+> **HOLDER:** I Putu Adi Saputra  
+> **DISCIPLINE:** Informatics & Blockchain Developer  
+> **ORIGIN:** Denpasar, Bali, Indonesia  
+>
+> ⸻  
+> [<kbd>🌐 Portfolio Website</kbd>](https://adisaputra.vercel.app/) &nbsp; [<kbd>🐙 GitHub Profile</kbd>](https://github.com/adisaputra0/) &nbsp; [<kbd>📸 Instagram</kbd>](https://www.instagram.com/adisaputra5944/) &nbsp; [<kbd>✉️ Email Me</kbd>](mailto:putuadi208@gmail.com)
 
 ---
 
-<div align="center"><sub>— PROFESSIONAL PRACTICE —</sub></div>
+## 🎨 CURATOR'S NOTES // THE DIGITAL CRAFT
 
-&nbsp;
-
-**PT. Hooki Global Kreasi** &nbsp;·&nbsp; *Backend Developer* &nbsp;·&nbsp; Denpasar, Jun – Sep 2023
-
-> Designed export & import systems in Laravel. Implemented secure authentication via Laravel Sanctum. Built RESTful APIs for CRUD operations and role management within the project.
-
-**PT. Guna Teknologi Nusantara** &nbsp;·&nbsp; *Frontend Developer* &nbsp;·&nbsp; Denpasar, Dec 2022 – Feb 2023
-
-> Crafted UI mockups in Figma to meet client specifications. Modified templates with creative precision. Co-launched [reminderpasien.com](https://reminderpasien.com/) and authored technical articles for the company blog.
-
----
-
-<div align="center"><sub>— EDUCATION —</sub></div>
-
-&nbsp;
-
-**Primakara University** &nbsp;·&nbsp; Informatics &nbsp;·&nbsp; *2024 — Present*
-
-**SMKN 1 Denpasar** &nbsp;·&nbsp; Software Engineering (RPL) &nbsp;·&nbsp; *2021 — 2024*
+> 🏛️ **ARS LONGA, VITA BREVIS**  
+> *"Art is long, life is short. The code we write today shapes the architecture of tomorrow."*
+>
+> I am an Informatics student at **Primakara University** in Bali, presently dedicating my craft to the study of **Blockchain**, **Web3**, and deepening my **Full-Stack Web Development** capabilities. I view software engineering not merely as logic, but as an art form—a synthesis of design, utility, and modern engineering.
+>
+> I am actively seeking collaborations and roles in:
+> - **Web Development** (Frontend / Backend)
+> - **AI Integration & Web3** projects
+> - **Rust** development and game design experiments
 
 ---
 
-<div align="center"><sub>— TOOLS OF THE TRADE —</sub></div>
+## 💼 CHRONOLOGY OF WORK // SYSTEM_LOGS
 
-&nbsp;
+```text
+[2023.06 — 2023.09]  ►►  PT. HOOKI GLOBAL KREASI
+────────────────────────────────────────────────────────────
+  POSITION: Backend Developer (Denpasar, Bali)
+  - Designed & developed import-export engines using Laravel.
+  - Implemented secure API authentication via Laravel Sanctum.
+  - Developed RESTful CRUD endpoints and roles management.
+  - Reference: https://hookigroup.com/
+────────────────────────────────────────────────────────────
 
-In the service of his craft, the following instruments are employed with regularity:
+[2022.12 — 2023.02]  ►►  PT. GUNA TEKNOLOGI NUSANTARA
+────────────────────────────────────────────────────────────
+  POSITION: Frontend Developer (Denpasar, Bali)
+  - Developed precise and highly creative UI modifications.
+  - Designed mockups in Figma for client specifications.
+  - Co-launched https://reminderpasien.com/
+  - Authored professional technical articles.
+  - Reference: https://redsystem.id/
+────────────────────────────────────────────────────────────
+```
 
-`Laravel` &nbsp; `React / Next.js` &nbsp; `Vue.js` &nbsp; `Tailwind CSS` &nbsp; `MySQL` &nbsp; `Bootstrap` &nbsp; `Figma` &nbsp; `Git` &nbsp; `WordPress`
+---
 
-*Currently in study:* &nbsp; `Rust` &nbsp; `Web3 / Blockchain` &nbsp; `Solidity`
+## 🎓 ACADEMIA // LOG_STREAM
+
+```text
+[2024 — PRESENT]  ►►  PRIMAKARA UNIVERSITY
+────────────────────────────────────────────────────────────
+  COURSE: Informatics (Undergraduate Studies)
+  - Focused on Web Development, Blockchain, and AI systems.
+────────────────────────────────────────────────────────────
+
+[2021 — 2024]     ►►  SMKN 1 DENPASAR
+────────────────────────────────────────────────────────────
+  COURSE: Software Engineering (RPL)
+  - Foundational studies in software design & database systems.
+────────────────────────────────────────────────────────────
+```
+
+---
+
+## 🏆 EXHIBITION OF TRIUMPHS // CERTIFIED_ARTIFACTS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ EXHIBIT #01</h3>
+      <p><kbd><b>ITCC 🥈 2nd Place</b></kbd></p>
+      <p><i>Information Technology Creative Competition</i></p>
+      <img src="img/juara2_itcc.jpg" width="100%" alt="ITCC Award">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ EXHIBIT #02</h3>
+      <p><kbd><b>INVOFEST 2025 🥉 3rd Place</b></kbd></p>
+      <p><i>Informatics Vocational Festival (Web Design)</i></p>
+      <img src="img/juara3_invofest.jpg" width="100%" alt="Invofest Award">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ EXHIBIT #03</h3>
+      <p><kbd><b>HACKATHON PROGRESS 🥉 3rd Place</b></kbd></p>
+      <p><i>Hackathon PROGRESS</i></p>
+      <img src="img/juara3_hackathon_progress.jpg" width="100%" alt="Hackathon Progress Award">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ EXHIBIT #04</h3>
+      <p><kbd><b>LKSN 2023 🏅 Medallion for Excellence</b></kbd></p>
+      <p><i>Lomba Kompetensi Siswa Nasional — Web Technologies (Score > 700)</i></p>
+      <img src="img/medallion_for_excellence.jpg" width="100%" alt="LKSN Award">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ INSTRUMENTS OF CREATION // TOOLBOX
+
+```text
+[ACTIVE STACK]
+  ├── Backend   :: Laravel, MySQL
+  ├── Frontend  :: Vue.js, React / Next.js, Tailwind CSS, Bootstrap
+  └── Design    :: Figma, Git, WordPress
+```
+
+<kbd>**Laravel**</kbd> &nbsp;
+<kbd>**React / Next.js**</kbd> &nbsp;
+<kbd>**Vue.js**</kbd> &nbsp;
+<kbd>**Tailwind CSS**</kbd> &nbsp;
+<kbd>**MySQL**</kbd> &nbsp;
+<kbd>**Bootstrap**</kbd> &nbsp;
+<kbd>**WordPress**</kbd> &nbsp;
+<kbd>**Figma**</kbd> &nbsp;
+<kbd>**Git**</kbd>
+
+<br><br>
+
+```text
+[UNDER STUDY / EXPERIMENTAL]
+  └── Solidity, Web3 / Blockchain, Rust
+```
+
+<kbd>**Rust**</kbd> &nbsp;
+<kbd>**Web3**</kbd> &nbsp;
+<kbd>**Solidity**</kbd> &nbsp;
+<kbd>**Blockchain**</kbd>
 
 ---
 
 <div align="center">
 
-&nbsp;
+```text
+⚡ PROCESS STATUS: CONTINUOUS_INTEGRATION_OF_KNOWLEDGE...
+"Keep learning, keep coding, and turning ideas into reality."
+```
 
-*"Keep learning, keep coding, and turning ideas into reality."*
-
-<sub>I Putu Adi Saputra &nbsp;·&nbsp; Denpasar, Bali &nbsp;·&nbsp; adisaputra.vercel.app</sub>
+<sub>I Putu Adi Saputra · Denpasar, Bali · [adisaputra.vercel.app](https://adisaputra.vercel.app/)</sub>
 
 </div>
