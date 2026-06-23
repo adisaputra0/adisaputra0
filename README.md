@@ -19,7 +19,7 @@
 ---
 
 ## 🏆 Achievements & Awards
-Berikut adalah beberapa pencapaian dan kompetisi yang telah saya menangkan:
+Here are some of the achievements and competitions I have won:
 
 | Award & Competition | Result | Documentation |
 | :--- | :---: | :---: |
