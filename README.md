@@ -1,148 +1,79 @@
-# Hi 👋, I'm I Putu Adi Saputra
+# Hi there, I'm I Putu Adi Saputra - [AS](https://adisaputra.vercel.app/) 👋
 
-<h3 align="center">
-🚀 Informatics Student • Fullstack Developer • Blockchain Enthusiast
-</h3>
-
-<p align="center">
-  <a href="https://adisaputra.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Web+Developer;Blockchain+%26+Web3+Enthusiast;Building+Useful+Digital+Products" />
-  </a>
+<p align="left">
+  <a href="https://adisaputra.vercel.app/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/adisaputra0/"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.instagram.com/adisaputra5944/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-* 🎓 Informatics Student at **Primakara University**
-* 🌱 Currently learning **Blockchain, Smart Contracts, Rust & Web3**
-* 💻 Interested in **Fullstack Development**
-* 🤝 Open to collaborate on **Web Development Projects**
-* 🚀 Building innovative solutions for **Education, UMKM, and Web3**
-* 💡 Always curious about new technologies
+## 🚀 About Me
+- 🔭 **Currently studying:** Informatics at **Primakara University** (Primakara University Student)
+- 🌱 **Learning Focus:** Blockchain, Web3, and Deepening Full-Stack Web Development 
+- 👯 **Open for Collaboration:** Web Developer roles (Frontend/Backend) & AI Integration Projects
+- 🤔 **Interests:** Looking for suggestions or collaborations on Rust Project Ideas & Game Dev
+- 💬 **Ask me about:** Laravel, React/Next.js, Tailwind CSS, or anything tech-related!
+- 📫 **How to reach me:** [putuadi208@gmail.com](mailto:putuadi208@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Achievements & Awards
+Berikut adalah beberapa pencapaian dan kompetisi yang telah saya menangkan:
 
-### Frontend
+| Award & Competition | Result | Documentation |
+| :--- | :---: | :---: |
+| **Informatics Vocational Festival (Web Design) 2025** | 🥉 3rd Place | <img src="img/juara3_invofest.jpg" width="150" alt="Invofest 2025"> |
+| **Information Technology Creative Competition (ITCC)** | 🥈 2nd Place | <img src="img/juara2_itcc.jpg" width="150" alt="ITCC"> |
+| **Hackathon PROGRESS** | 🥉 3rd Place | <img src="img/juara3_hackathon_progress.jpg" width="150" alt="Hackathon Progress"> |
+| **LKSN (Lomba Kompetensi Siswa Nasional) 2023** <br> _Web Technologies_ | 🏅 Medallion for Excellence <br> *(Finalist with score > 700)* | <img src="img/medallion_for_excellence.jpg" width="150" alt="LKSN 2023"> |
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vue,tailwind,bootstrap" />
-</p>
+---
 
-### Backend
+## 💼 Internship Experience
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,supabase" />
-</p>
+#### 🔹 [PT. Hooki Global Kreasi](https://hookigroup.com/) | Backend Developer
+*Denpasar | Jun 2023 - Sep 2023*
+- Designing and developing an export and import system using the Laravel framework.
+- Implementation of login and logout features using Laravel Sanctum for secure authentication.
+- Creating Robust RESTful APIs for CRUD operations including roles management within the project.
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-</p>
+#### 🔹 [PT. Guna Teknologi Nusantara](https://redsystem.id/) | Frontend Developer
+*Denpasar | Dec 2022 - Feb 2023*
+- Making precise and highly creative modifications to various templates to meet client requirements.
+- Taking an active role in developing website mockups using Figma to produce aesthetically pleasing and functional designs.
+- Responsible for writing high-quality technical articles for the blog website.
+- Collaborated effectively to launch [reminderpasien.com](https://reminderpasien.com/).
 
 ---
 
 ## 🎓 Education
 
-### Primakara University
-
-**Bachelor of Informatics**
-📍 Denpasar, Bali
-🗓️ 2024 - Present
-
-### SMKN 1 Denpasar
-
-**Software Engineering**
-📍 Denpasar, Bali
-🗓️ 2021 - 2024
+1. **PRIMAKARA UNIVERSITY** | Informatics  
+   *Denpasar | `2024 - Present`*
+2. **SMKN 1 DENPASAR** | Software Engineering (RPL)  
+   *Denpasar | `2021 - 2024`*
 
 ---
 
-## 💼 Experience
+## 🛠️ Languages and Tools
 
-### Frontend Developer Intern
-
-**PT. Guna Teknologi Nusantara**
-📅 Dec 2022 - Feb 2023
-
-* Website customization and development
-* UI/UX prototyping with Figma
-* Blog content creation
-* Team collaboration and deployment
-* Contributed to the launch of reminderpasien.com
-
-### Backend Developer Intern
-
-**PT. Hooki Global Kreasi**
-📅 Jun 2023 - Sep 2023
-
-* Laravel-based Export/Import System
-* Authentication with Laravel Sanctum
-* RESTful API Development
-* Role Management API
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adisaputra0&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisaputra0&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  
+  <!-- CMS & Tools -->
+  <img src="https://img.shields.io/badge/Wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adisaputra0&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adisaputra0&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://adisaputra.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="https://github.com/adisaputra0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.instagram.com/adisaputra5944">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:putuadi208@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adisaputra0&label=Profile+Views&color=00ff88&style=flat"/>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+<p align="center">💡 <i>"Keep learning, keep coding, and turning ideas into reality."</i></p>
